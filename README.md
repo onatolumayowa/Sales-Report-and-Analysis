@@ -30,7 +30,7 @@ This project involves creating a basic sales performance dashboard for a small r
 
 ### Data Sources
 
-
+[View Here](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Online_orders_2024.csv)
 
 ### Tasks
 
@@ -190,6 +190,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 
 ### Quick Facts Summary Table
+
 
 |Metric|Value|Insight|
 |------|-----|-------|
