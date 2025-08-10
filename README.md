@@ -1,5 +1,19 @@
 # Online Sales Analysis
 
+
+## Table of Contents
+
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tasks](#tasks)
+[Tools](#tools)
+[Data Cleaning/Preparation](#data-cleaning/preparation)
+[Analysis](#analysis)
+[Overall Insights and Recommendations](#overall-insights-and-recommendations)
+[Quick Facts Summary Table](#quick-facts-summary-table)
+[conclusion](#conclusion)
+
+
 ### Project Overview
 
 This project involves creating a basic sales performance dashboard for a small retail store to track and analyze key business metrics. The dashboard consolidates sales data into an easy-to-read, visual format, enabling store managers and owners to make informed business decisions quickly.
@@ -93,9 +107,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 **3**. Visualize the monthly sales trends of the top 3 product
 
-   
-<img width="644" height="607" alt="Monthly_sales_by_product" src="https://github.com/user-attachments/assets/70b6f6f2-ce01-4603-9241-eb24b2c356e4" />
-
+[View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Monthly_sales_by_product.png)
 
 
 
@@ -134,7 +146,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 **Overall Sales Trends**
 
-- Peak sales occur in May, June, and July, with the highest revenue driven by multiple products performing strongly together.
+- Peak sales occur in Feb, May, and June, with the highest revenue driven by multiple products performing strongly together.
 
 - Sales dips are observed in October, mainly due to a sharp drop in flagship product sales.
 
