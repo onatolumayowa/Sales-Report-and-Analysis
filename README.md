@@ -11,6 +11,7 @@ This project involves creating a basic sales performance dashboard for a small r
 
 
 ### Tasks
+
 - Calculate basic sales metrics like total revenue, average order value, and total sales.
 
 - Visualize trends using basic line and bar charts (e.g., monthly sales trends).
@@ -20,11 +21,13 @@ This project involves creating a basic sales performance dashboard for a small r
 
 
 ### Tools
+
 - Excel
 
 
 
 ### Data Cleaning/Preparation
+
 - Checked for duplicates
 - Removed unused columns
 - Added new columns 'Total price' and 'Order Month'
@@ -33,11 +36,11 @@ This project involves creating a basic sales performance dashboard for a small r
 
 ### Analysis
 
-1. Visualize trends using basic line and bar charts (e.g., monthly sales trends)
+**1**. Visualize trends using basic line and bar charts (e.g., monthly sales trends)
 
 [View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/sales_by_month.png)
 
-  Insights
+**Insights**
 
 - Peak Months: February and May recorded the highest sales, both exceeding $800,000, likely driven by seasonal promotions or high-demand periods.
  
@@ -56,7 +59,7 @@ This project involves creating a basic sales performance dashboard for a small r
 Leverage strategies from high-performing months to boost off-season sales, and consider targeted promotions during historically low months (March, September, October).
 
 
-2. Identify the top 3 products by sales and visualize them in a bar chart
+**2**. Identify the top 3 products by sales and visualize them in a bar chart
 
 
 <img width="644" height="607" alt="Top_3_product_by_sales" src="https://github.com/user-attachments/assets/9891bbda-c589-4a29-99c8-2e40902bf5f3" />
@@ -88,7 +91,7 @@ Leverage strategies from high-performing months to boost off-season sales, and c
 Maintain strong marketing and supply for the Tablet 10-inch, while developing growth strategies for Smartwatch and Mechanical Keyboard to reduce dependency on a single product.
 
 
-3. Visualize the monthly sales trends of the top 3 product
+**3**. Visualize the monthly sales trends of the top 3 product
 
    
 <img width="644" height="607" alt="Monthly_sales_by_product" src="https://github.com/user-attachments/assets/70b6f6f2-ce01-4603-9241-eb24b2c356e4" />
@@ -171,7 +174,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 |Metric|Value|Insight|
 |------|-----|-------|
 |Total Revenue (Year)|$6,584,100|Strong yearly sales indicate healthy store performance|
-|**Best Month**|February – $830,000+|Peak sales, likely due to seasonal promotions|
+|Best Month|February – $830,000+|Peak sales, likely due to seasonal promotions|
 |Worst Month|October – ~$120,000|Lowest sales, possible off-season dip|
 |Best-Selling Product|Tablet 10-inch – $3,230,000|Generates over 3× the sales of second place|
 |Most Volatile Period|Jan–Mar|Sharp rise then steep fall|
