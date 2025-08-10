@@ -18,7 +18,21 @@ sales trends).
 - Identify the top 3 products by sales and visualize them in a
 bar chart.
 
+
 ### Tools
 - Excel
+
+
+### Data Cleaning/Preparation
+- Checked for duplicates
+- Removed unused columns
+- Adding new columns 'Total price' and 'Order Month'
+
+
+### Analysis
+
+
+
+
 
 ### 
