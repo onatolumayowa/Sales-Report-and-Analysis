@@ -11,7 +11,7 @@
 
 [Tools](#tools)
 
-[Data Cleaning](#data-cleaning)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
 [Analysis](#analysis)
 
@@ -48,7 +48,7 @@ This project involves creating a basic sales performance dashboard for a small r
 
 
 
-### Data Cleaning
+### Data Cleaning and Preparation
 
 - Checked for duplicates
 - Removed unused columns
