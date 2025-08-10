@@ -1,0 +1,142 @@
+﻿Order Date,Product Name,Quantity,Unit Price (â‚¦),Order ID,Customer Name,Delivery City,Payment Method
+1/4/2024,Tablet 10-inch,1,85000,ORD-1001,John Doe,Abuja,Mobile Money
+1/18/2024,Webcam HD,3,12500,ORD-1002,Jane Smith,Lagos,Mobile Money
+1/19/2024,Wireless Mouse,3,6500,ORD-1003,John Doe,Ibadan,Cash on Delivery
+1/11/2024,Phone Charger,3,4500,ORD-1004,Mike Oâ€™Neil,Lagos,Cash on Delivery
+1/8/2024,Wireless Mouse,3,6500,ORD-1005,John Doe,Port Harcourt,Cash on Delivery
+1/3/2024,Laptop Stand,1,8200,ORD-1006,Mike Oâ€™Neil,Port Harcourt,Cash on Delivery
+1/17/2024,Mechanical Keyboard,1,22500,ORD-1007,David Jones,Lagos,Mobile Money
+1/3/2024,Webcam HD,2,12500,ORD-1008,Jane Smith,Abuja,Card
+2/11/2024,Portable SSD 500GB,3,28000,ORD-1009,Mike Oâ€™Neil,Ibadan,Cash on Delivery
+2/15/2024,Wireless Mouse,3,6500,ORD-1010,Sarah Lee,Abuja,Cash on Delivery
+2/7/2024,Portable SSD 500GB,1,28000,ORD-1011,John Doe,Abuja,Card
+2/1/2024,Tablet 10-inch,3,85000,ORD-1012,John Doe,Lagos,Cash on Delivery
+2/24/2024,Smartwatch,2,35000,ORD-1013,John Doe,Abuja,Card
+2/16/2024,USB-C Cable,1,2000,ORD-1014,Mike Oâ€™Neil,Abuja,Mobile Money
+2/11/2024,Tablet 10-inch,3,85000,ORD-1015,Mike Oâ€™Neil,Lagos,Card
+2/17/2024,Portable SSD 500GB,3,28000,ORD-1016,Jane Smith,Abuja,Mobile Money
+2/8/2024,Wireless Mouse,3,6500,ORD-1017,David Jones,Port Harcourt,Cash on Delivery
+2/16/2024,Wireless Mouse,2,6500,ORD-1018,John Doe,Abuja,Mobile Money
+3/17/2024,Wireless Mouse,1,6500,ORD-1019,Mike Oâ€™Neil,Abuja,Cash on Delivery
+3/3/2024,Wireless Mouse,3,6500,ORD-1020,David Jones,Ibadan,Cash on Delivery
+3/17/2024,Mechanical Keyboard,1,22500,ORD-1021,David Jones,Abuja,Card
+3/5/2024,Webcam HD,1,12500,ORD-1022,Jane Smith,Ibadan,Mobile Money
+3/13/2024,Tablet 10-inch,1,85000,ORD-1023,Mike Oâ€™Neil,Lagos,Cash on Delivery
+3/22/2024,Webcam HD,2,12500,ORD-1024,Mike Oâ€™Neil,Lagos,Mobile Money
+3/27/2024,Bluetooth Headphones,2,15000,ORD-1025,David Jones,Lagos,Cash on Delivery
+3/13/2024,Webcam HD,1,12500,ORD-1026,Anna Kim,Ibadan,Mobile Money
+3/3/2024,Webcam HD,3,12500,ORD-1027,Sarah Lee,Lagos,Cash on Delivery
+3/4/2024,Mechanical Keyboard,3,22500,ORD-1028,Sarah Lee,Abuja,Mobile Money
+4/14/2024,Wireless Mouse,1,6500,ORD-1029,David Jones,Abuja,Card
+4/10/2024,Tablet 10-inch,3,85000,ORD-1030,John Doe,Abuja,Card
+4/9/2024,Smartwatch,3,35000,ORD-1031,Jane Smith,Ibadan,Mobile Money
+4/23/2024,USB-C Cable,2,2000,ORD-1032,David Jones,Lagos,Mobile Money
+4/7/2024,Laptop Stand,3,8200,ORD-1033,Jane Smith,Abuja,Cash on Delivery
+4/21/2024,Mechanical Keyboard,2,22500,ORD-1034,Mike Oâ€™Neil,Port Harcourt,Cash on Delivery
+4/1/2024,Smartwatch,2,35000,ORD-1035,Anna Kim,Port Harcourt,Mobile Money
+4/14/2024,Wireless Mouse,2,6500,ORD-1036,John Doe,Ibadan,Card
+4/28/2024,Phone Charger,3,4500,ORD-1037,David Jones,Port Harcourt,Mobile Money
+4/16/2024,USB-C Cable,2,2000,ORD-1038,John Doe,Ibadan,Mobile Money
+4/3/2024,USB-C Cable,2,2000,ORD-1039,Anna Kim,Port Harcourt,Mobile Money
+4/24/2024,Phone Charger,1,4500,ORD-1040,Mike Oâ€™Neil,Ibadan,Cash on Delivery
+4/8/2024,Wireless Mouse,1,6500,ORD-1041,Mike Oâ€™Neil,Abuja,Cash on Delivery
+4/15/2024,Mechanical Keyboard,1,22500,ORD-1042,Mike Oâ€™Neil,Abuja,Card
+4/1/2024,Smartwatch,3,35000,ORD-1043,Jane Smith,Port Harcourt,Mobile Money
+5/24/2024,Smartwatch,3,35000,ORD-1044,David Jones,Abuja,Card
+5/3/2024,Laptop Stand,3,8200,ORD-1045,Jane Smith,Ibadan,Mobile Money
+5/24/2024,Bluetooth Headphones,3,15000,ORD-1046,David Jones,Ibadan,Mobile Money
+5/16/2024,Webcam HD,1,12500,ORD-1047,David Jones,Port Harcourt,Mobile Money
+5/13/2024,Smartwatch,1,35000,ORD-1048,Sarah Lee,Lagos,Card
+5/22/2024,Tablet 10-inch,3,85000,ORD-1049,Sarah Lee,Abuja,Card
+5/6/2024,Laptop Stand,2,8200,ORD-1050,Sarah Lee,Abuja,Cash on Delivery
+5/7/2024,Tablet 10-inch,3,85000,ORD-1051,Anna Kim,Port Harcourt,Card
+5/27/2024,Phone Charger,2,4500,ORD-1052,Anna Kim,Ibadan,Mobile Money
+5/27/2024,Bluetooth Headphones,2,15000,ORD-1053,John Doe,Ibadan,Mobile Money
+5/12/2024,Webcam HD,1,12500,ORD-1054,Sarah Lee,Lagos,Card
+5/22/2024,Wireless Mouse,1,6500,ORD-1055,John Doe,Abuja,Mobile Money
+5/11/2024,USB-C Cable,2,2000,ORD-1056,John Doe,Abuja,Cash on Delivery
+5/11/2024,Bluetooth Headphones,1,15000,ORD-1057,Sarah Lee,Lagos,Cash on Delivery
+6/3/2024,Smartwatch,1,35000,ORD-1058,Anna Kim,Ibadan,Mobile Money
+6/23/2024,Laptop Stand,2,8200,ORD-1059,Mike Oâ€™Neil,Lagos,Cash on Delivery
+6/17/2024,Wireless Mouse,3,6500,ORD-1060,David Jones,Lagos,Card
+6/1/2024,Phone Charger,2,4500,ORD-1061,Jane Smith,Lagos,Mobile Money
+6/8/2024,Smartwatch,1,35000,ORD-1062,John Doe,Abuja,Cash on Delivery
+6/21/2024,Wireless Mouse,1,6500,ORD-1063,John Doe,Port Harcourt,Card
+6/1/2024,Tablet 10-inch,3,85000,ORD-1064,John Doe,Abuja,Mobile Money
+6/4/2024,Webcam HD,3,12500,ORD-1065,Anna Kim,Port Harcourt,Card
+6/15/2024,Tablet 10-inch,3,85000,ORD-1066,John Doe,Abuja,Cash on Delivery
+6/2/2024,Bluetooth Headphones,2,15000,ORD-1067,Sarah Lee,Port Harcourt,Cash on Delivery
+6/23/2024,Tablet 10-inch,1,85000,ORD-1068,Anna Kim,Port Harcourt,Cash on Delivery
+7/7/2024,Webcam HD,3,12500,ORD-1069,Anna Kim,Lagos,Cash on Delivery
+7/15/2024,Webcam HD,1,12500,ORD-1070,Mike Oâ€™Neil,Ibadan,Card
+7/26/2024,Webcam HD,3,12500,ORD-1071,Jane Smith,Abuja,Card
+7/20/2024,Tablet 10-inch,3,85000,ORD-1072,David Jones,Port Harcourt,Cash on Delivery
+7/22/2024,USB-C Cable,3,2000,ORD-1073,Mike Oâ€™Neil,Port Harcourt,Cash on Delivery
+7/12/2024,Smartwatch,3,35000,ORD-1074,Jane Smith,Abuja,Card
+7/10/2024,Portable SSD 500GB,1,28000,ORD-1075,Jane Smith,Ibadan,Card
+7/25/2024,Bluetooth Headphones,3,15000,ORD-1076,David Jones,Abuja,Cash on Delivery
+7/28/2024,USB-C Cable,3,2000,ORD-1077,David Jones,Ibadan,Cash on Delivery
+7/17/2024,Wireless Mouse,2,6500,ORD-1078,Mike Oâ€™Neil,Lagos,Card
+7/24/2024,Mechanical Keyboard,2,22500,ORD-1079,David Jones,Ibadan,Card
+7/24/2024,Portable SSD 500GB,1,28000,ORD-1080,Jane Smith,Lagos,Card
+8/7/2024,Laptop Stand,2,8200,ORD-1081,Sarah Lee,Lagos,Cash on Delivery
+8/16/2024,Smartwatch,3,35000,ORD-1082,Anna Kim,Abuja,Mobile Money
+8/12/2024,Webcam HD,3,12500,ORD-1083,David Jones,Lagos,Cash on Delivery
+8/28/2024,Tablet 10-inch,2,85000,ORD-1084,John Doe,Lagos,Card
+8/2/2024,Laptop Stand,2,8200,ORD-1085,Anna Kim,Lagos,Cash on Delivery
+8/1/2024,Mechanical Keyboard,3,22500,ORD-1086,Jane Smith,Port Harcourt,Mobile Money
+8/1/2024,Tablet 10-inch,1,85000,ORD-1087,David Jones,Port Harcourt,Cash on Delivery
+8/20/2024,Tablet 10-inch,1,85000,ORD-1088,John Doe,Port Harcourt,Card
+8/27/2024,Webcam HD,3,12500,ORD-1089,Jane Smith,Port Harcourt,Mobile Money
+8/8/2024,Phone Charger,3,4500,ORD-1090,Anna Kim,Port Harcourt,Cash on Delivery
+8/8/2024,USB-C Cable,3,2000,ORD-1091,David Jones,Abuja,Cash on Delivery
+8/18/2024,Bluetooth Headphones,1,15000,ORD-1092,Sarah Lee,Lagos,Cash on Delivery
+9/28/2024,Smartwatch,1,35000,ORD-1093,Anna Kim,Abuja,Card
+9/10/2024,Smartwatch,2,35000,ORD-1094,Jane Smith,Port Harcourt,Mobile Money
+9/3/2024,Portable SSD 500GB,2,28000,ORD-1095,Anna Kim,Ibadan,Card
+9/9/2024,Bluetooth Headphones,2,15000,ORD-1096,Mike Oâ€™Neil,Lagos,Cash on Delivery
+9/12/2024,USB-C Cable,1,2000,ORD-1097,John Doe,Abuja,Mobile Money
+9/15/2024,Wireless Mouse,3,6500,ORD-1098,Sarah Lee,Ibadan,Card
+9/14/2024,Mechanical Keyboard,1,22500,ORD-1099,Jane Smith,Abuja,Mobile Money
+9/17/2024,USB-C Cable,2,2000,ORD-1100,Sarah Lee,Ibadan,Cash on Delivery
+9/22/2024,Bluetooth Headphones,1,15000,ORD-1101,Jane Smith,Port Harcourt,Cash on Delivery
+9/27/2024,USB-C Cable,3,2000,ORD-1102,John Doe,Ibadan,Cash on Delivery
+9/7/2024,Laptop Stand,3,8200,ORD-1103,Anna Kim,Lagos,Mobile Money
+9/11/2024,Wireless Mouse,1,6500,ORD-1104,Sarah Lee,Ibadan,Mobile Money
+9/9/2024,Wireless Mouse,3,6500,ORD-1105,John Doe,Port Harcourt,Cash on Delivery
+10/9/2024,Wireless Mouse,3,6500,ORD-1106,John Doe,Port Harcourt,Cash on Delivery
+10/27/2024,Wireless Mouse,1,6500,ORD-1107,Mike Oâ€™Neil,Lagos,Cash on Delivery
+10/9/2024,USB-C Cable,1,2000,ORD-1108,Jane Smith,Port Harcourt,Mobile Money
+10/13/2024,USB-C Cable,1,2000,ORD-1109,David Jones,Port Harcourt,Cash on Delivery
+10/9/2024,Bluetooth Headphones,3,15000,ORD-1110,John Doe,Abuja,Card
+10/23/2024,Webcam HD,2,12500,ORD-1111,John Doe,Ibadan,Cash on Delivery
+10/25/2024,Mechanical Keyboard,1,22500,ORD-1112,Anna Kim,Lagos,Mobile Money
+10/24/2024,Wireless Mouse,1,6500,ORD-1113,Sarah Lee,Lagos,Mobile Money
+11/7/2024,Laptop Stand,3,8200,ORD-1114,Mike Oâ€™Neil,Lagos,Mobile Money
+11/10/2024,Portable SSD 500GB,3,28000,ORD-1115,Jane Smith,Port Harcourt,Cash on Delivery
+11/26/2024,Wireless Mouse,2,6500,ORD-1116,Anna Kim,Lagos,Mobile Money
+11/27/2024,Phone Charger,3,4500,ORD-1117,David Jones,Port Harcourt,Card
+11/16/2024,USB-C Cable,1,2000,ORD-1118,Mike Oâ€™Neil,Lagos,Cash on Delivery
+11/14/2024,Webcam HD,3,12500,ORD-1119,Anna Kim,Ibadan,Card
+11/23/2024,Phone Charger,1,4500,ORD-1120,Sarah Lee,Lagos,Card
+11/20/2024,Phone Charger,2,4500,ORD-1121,Mike Oâ€™Neil,Ibadan,Mobile Money
+11/24/2024,Phone Charger,3,4500,ORD-1122,David Jones,Lagos,Cash on Delivery
+11/1/2024,USB-C Cable,3,2000,ORD-1123,David Jones,Abuja,Mobile Money
+11/19/2024,Smartwatch,1,35000,ORD-1124,Jane Smith,Ibadan,Card
+11/7/2024,Tablet 10-inch,3,85000,ORD-1125,Mike Oâ€™Neil,Abuja,Mobile Money
+11/6/2024,Laptop Stand,1,8200,ORD-1126,David Jones,Port Harcourt,Mobile Money
+11/27/2024,Laptop Stand,3,8200,ORD-1127,Jane Smith,Lagos,Cash on Delivery
+11/25/2024,Bluetooth Headphones,1,15000,ORD-1128,David Jones,Ibadan,Card
+12/12/2024,Tablet 10-inch,1,85000,ORD-1129,Anna Kim,Ibadan,Mobile Money
+12/10/2024,Tablet 10-inch,3,85000,ORD-1130,David Jones,Lagos,Cash on Delivery
+12/3/2024,Wireless Mouse,3,6500,ORD-1131,Mike Oâ€™Neil,Port Harcourt,Card
+12/25/2024,Laptop Stand,3,8200,ORD-1132,Sarah Lee,Ibadan,Card
+12/6/2024,Wireless Mouse,3,6500,ORD-1133,Mike Oâ€™Neil,Abuja,Cash on Delivery
+12/20/2024,Mechanical Keyboard,3,22500,ORD-1134,Jane Smith,Ibadan,Mobile Money
+12/1/2024,Wireless Mouse,3,6500,ORD-1135,Anna Kim,Ibadan,Cash on Delivery
+12/11/2024,USB-C Cable,3,2000,ORD-1136,Anna Kim,Lagos,Card
+12/22/2024,Mechanical Keyboard,1,22500,ORD-1137,John Doe,Lagos,Card
+12/1/2024,Bluetooth Headphones,2,15000,ORD-1138,Mike Oâ€™Neil,Abuja,Cash on Delivery
+12/14/2024,Mechanical Keyboard,1,22500,ORD-1139,Anna Kim,Ibadan,Cash on Delivery
+12/10/2024,Mechanical Keyboard,2,22500,ORD-1140,David Jones,Port Harcourt,Card
+12/18/2024,Webcam HD,3,12500,ORD-1141,Jane Smith,Abuja,Cash on Delivery
