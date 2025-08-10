@@ -61,7 +61,10 @@ Leverage strategies from high-performing months to boost off-season sales, and c
 
 2. Identify the top 3 products by sales and visualize them in a bar chart
 
+
 <img width="644" height="607" alt="Top_3_product_by_sales" src="https://github.com/user-attachments/assets/9891bbda-c589-4a29-99c8-2e40902bf5f3" />
+
+
 
 
 **Insights**
@@ -89,8 +92,12 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 
 3. Visualize the monthly sales trends of the top 3 product
+
    
 <img width="644" height="607" alt="Monthly_sales_by_product" src="https://github.com/user-attachments/assets/70b6f6f2-ce01-4603-9241-eb24b2c356e4" />
+
+
+
 
 **Insights**
 
@@ -119,6 +126,52 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 - Explore bundling or cross-selling Mechanical Keyboards with Tablets to lift its contribution during weaker months.
 
 
+### Overall Insights and Recommendations
 
+[Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Dashboard_report.png)
+
+
+**Overall Sales Trends**
+
+- Peak sales occur in May, June, and July, with the highest revenue driven by multiple products performing strongly together.
+
+- Sales dips are observed in October, mainly due to a sharp drop in flagship product sales.
+
+
+**Top Product Contribution**
+
+- Tablet 10-inch is the store’s primary revenue driver, consistently appearing as the top-selling product in most months.
+
+- Smartwatch and Mechanical Keyboard contribute as secondary products but have irregular monthly sales.
+
+
+**Monthly Sales of Top 3 Products**
+
+- Tablet 10-inch dominates sales every month except October, with major peaks in May–July.
+
+- Smartwatch performs well in February, May, July, and August but has months with almost zero sales.
+
+- Mechanical Keyboard sees moderate contributions in the mid and later parts of the year.
+
+- Strong sales months happen when multiple products perform well simultaneously.
+
+- Weak sales months often coincide with Tablet 10-inch underperformance.
+
+
+**Recommendations**
+
+- Balance sales across all products by running promotions in months where only one performs well.
+
+- Investigate Smartwatch’s sales inconsistency to improve monthly stability.
+
+- Use bundling and cross-selling strategies for Mechanical Keyboards to boost their contribution.
+
+
+
+### Quick Facts Summary Table
+
+|Metric|Value|Insight|
+|------|-----|-------|
+|**Best Month**|February – $830,000+|Peak sales, likely due to seasonal promotions|
 
 ### 
