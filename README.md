@@ -8,7 +8,9 @@ This project involves creating a basic sales performance dashboard for a small r
 
 
 
+
 ### Data Sources
+
 
 
 ### Tasks
@@ -19,14 +21,17 @@ This project involves creating a basic sales performance dashboard for a small r
 - Identify the top 3 products by sales and visualize them in a bar chart.
 
 
+
 ### Tools
 - Excel
+
 
 
 ### Data Cleaning/Preparation
 - Checked for duplicates
 - Removed unused columns
 - Added new columns 'Total price' and 'Order Month'
+
 
 
 ### Analysis
@@ -126,6 +131,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 - Explore bundling or cross-selling Mechanical Keyboards with Tablets to lift its contribution during weaker months.
 
 
+
 ### Overall Insights and Recommendations
 
 [Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Dashboard_report.png)
@@ -172,6 +178,24 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 |Metric|Value|Insight|
 |------|-----|-------|
+|Total Revenue (Year)|$6,584,100|Strong yearly sales indicate healthy store performance|
 |**Best Month**|February – $830,000+|Peak sales, likely due to seasonal promotions|
+|Worst Month|October – ~$120,000|Lowest sales, possible off-season dip|
+|Best-Selling Product|Tablet 10-inch – $3,230,000|Generates over 3× the sales of second place|
+|Most Volatile Period|Jan–Mar|Sharp rise then steep fall|
+|Product Concentration|~67% of top 3 sales from one product|Reliance risk, diversification needed|
 
-### 
+
+
+### Conclusion
+
+The sales data shows that the store maintains a healthy performance, driven mainly by a few high-demand products, especially the Tablet 10-inch. 
+
+Revenue peaks appear to align with seasonal trends or targeted promotions, while dips suggest periods of low marketing activity or seasonal slowdown.
+
+Focusing on sustaining peak months’ momentum and addressing low-performing periods could further boost overall sales performance.
+
+
+
+
+
