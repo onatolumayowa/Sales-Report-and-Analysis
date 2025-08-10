@@ -35,9 +35,9 @@ This project involves creating a basic sales performance dashboard for a small r
 
 1. Visualize trends using basic line and bar charts (e.g., monthly sales trends)
 
+[View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/sales_by_month.png)
 
-
-  **Insights**
+  Insights
 
 - Peak Months: February and May recorded the highest sales, both exceeding $800,000, likely driven by seasonal promotions or high-demand periods.
  
