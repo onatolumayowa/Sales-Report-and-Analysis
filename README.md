@@ -4,9 +4,6 @@
 
 This project involves creating a basic sales performance dashboard for a small retail store to track and analyze key business metrics. The dashboard consolidates sales data into an easy-to-read, visual format, enabling store managers and owners to make informed business decisions quickly.
 
-<img width="1910" height="895" alt="Dashboard_report" src="https://github.com/user-attachments/assets/e194bab5-c2b2-415a-b0f7-e937df418248" />
-
-
 
 
 ### Data Sources
@@ -40,12 +37,7 @@ This project involves creating a basic sales performance dashboard for a small r
 
 
 
-<img width="625" height="613" alt="sales_by_month" src="https://github.com/user-attachments/assets/00d2093b-bd5d-4b7c-9c84-1b75d193aa8c" />
-
-
-
-
-**Insights**
+  **Insights**
 
 - Peak Months: February and May recorded the highest sales, both exceeding $800,000, likely driven by seasonal promotions or high-demand periods.
  
