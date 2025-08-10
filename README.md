@@ -27,9 +27,25 @@ This project involves creating a basic sales performance dashboard for a small r
 
 
 ### Analysis
-- Visualize trends using basic line and bar charts (e.g., monthly sales trends)
+1. Visualize trends using basic line and bar charts (e.g., monthly sales trends)
 
 <img width="625" height="613" alt="sales_by_month" src="https://github.com/user-attachments/assets/00d2093b-bd5d-4b7c-9c84-1b75d193aa8c" />
+
+**Insights**
+
+- Peak Months: February and May recorded the highest sales, both exceeding $800,000, likely driven by seasonal promotions or high-demand periods.
+- 
+
+- Lowest Performance: October had the weakest sales at around $120,000, with September and January also showing relatively low figures.
+- 
+
+- Seasonal Patterns: Rapid growth from January → February Sharp dip in March, followed by recovery through May and June Decline from July → October before rebounding in November and December possibly due to year-end sales.
+
+- Volatility: Sales fluctuate significantly month-to-month, suggesting strong seasonality and dependence on campaigns or external factors.
+- 
+
+**Recommendation**
+
 
 
 
