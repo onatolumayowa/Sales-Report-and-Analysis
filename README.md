@@ -62,7 +62,7 @@ Leverage strategies from high-performing months to boost off-season sales, and c
 **2**. Identify the top 3 products by sales and visualize them in a bar chart
 
 
-<img width="644" height="607" alt="Top_3_product_by_sales" src="https://github.com/user-attachments/assets/9891bbda-c589-4a29-99c8-2e40902bf5f3" />
+[View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Top_3_product_by_sales.png)
 
 
 
