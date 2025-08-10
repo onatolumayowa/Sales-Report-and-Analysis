@@ -4,13 +4,21 @@
 ## Table of Contents
 
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
+
 [Tasks](#tasks)
+
 [Tools](#tools)
+
 [Data Cleaning/Preparation](#data-cleaning/preparation)
+
 [Analysis](#analysis)
+
 [Overall Insights and Recommendations](#overall-insights-and-recommendations)
+
 [Quick Facts Summary Table](#quick-facts-summary-table)
+
 [conclusion](#conclusion)
 
 
