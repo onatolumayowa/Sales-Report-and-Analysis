@@ -33,7 +33,11 @@ This project involves creating a basic sales performance dashboard for a small r
 
 1. Visualize trends using basic line and bar charts (e.g., monthly sales trends)
 
+
+
 <img width="625" height="613" alt="sales_by_month" src="https://github.com/user-attachments/assets/00d2093b-bd5d-4b7c-9c84-1b75d193aa8c" />
+
+
 
 
 **Insights**
