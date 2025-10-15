@@ -26,7 +26,7 @@
 
 This project involves creating a basic sales performance dashboard for a small retail store to track and analyze key business metrics. The dashboard consolidates sales data into an easy-to-read, visual format, enabling store managers and owners to make informed business decisions quickly.
 
-[Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Dashboard_report.png)
+![Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Dashboard_report.png)
 
 ### Data Sources
 
@@ -60,7 +60,7 @@ This project involves creating a basic sales performance dashboard for a small r
 
 **1**. Visualize trends using basic line and bar charts (e.g., monthly sales trends)
 
-[View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/sales_by_month.png)
+![View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/sales_by_month.png)
 
 **Insights**
 
@@ -84,7 +84,7 @@ Leverage strategies from high-performing months to boost off-season sales, and c
 **2**. Identify the top 3 products by sales and visualize them in a bar chart
 
 
-[View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Top_3_product_by_sales.png)
+![View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Top_3_product_by_sales.png)
 
 
 
@@ -115,7 +115,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 **3**. Visualize the monthly sales trends of the top 3 product
 
-[View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Monthly_sales_by_product.png)
+![View Report](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Monthly_sales_by_product.png)
 
 
 
@@ -149,7 +149,7 @@ Maintain strong marketing and supply for the Tablet 10-inch, while developing gr
 
 ### Overall Insights and Recommendations
 
-[Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Dashboard_report.png)
+![Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-1/blob/main/Dashboard_report.png)
 
 
 **Overall Sales Trends**
